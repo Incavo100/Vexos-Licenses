@@ -1,3 +1,8 @@
+VEXOS LICENSE SYSTEM  
+License ID: VPL-v1.2  
+Maintained by: Vexos  
+Official Release Year: 2025  
+──────────────────────────────────────────────────────────────
 VEXOS PROPRIETARY LICENSE (VPL) v1.2  
 Copyright (c) 2025 Vexos  
 
