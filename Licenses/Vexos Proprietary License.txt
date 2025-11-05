@@ -1,0 +1,47 @@
+VEXOS PROPRIETARY LICENSE (VPL) v1.2  
+Copyright (c) 2025 Vexos  
+
+──────────────────────────────────────────────────────────────
+SECTION 1 — PURPOSE
+──────────────────────────────────────────────────────────────
+The Vexos Proprietary License (VPL) is a closed or semi-open license designed
+to protect Vexos projects. It allows limited viewing of the Software’s code
+for transparency or inspection, but no modification, reuse, or redistribution
+of any kind.
+
+──────────────────────────────────────────────────────────────
+SECTION 2 — LICENSE GRANT
+──────────────────────────────────────────────────────────────
+You are granted a limited, non-exclusive right to use the Software for
+personal viewing or educational reference only.
+
+- You may **view** certain parts of the code if the author made them public.  
+- You may **not** copy, modify, redistribute, or reuse any part of the Software.  
+- You may **not** make derivative projects or tools based on the Software.  
+
+If the code or any portion of it is marked as **fully private**, you are not
+permitted to access, reproduce, or share it under any circumstance.
+
+──────────────────────────────────────────────────────────────
+SECTION 3 — RESTRICTIONS
+──────────────────────────────────────────────────────────────
+1. You may not modify, re-upload, decompile, or deconstruct the Software.  
+2. You may not redistribute, sell, or include any of its content in your own
+   projects or media.  
+3. You may not use any part of the Software’s codebase, design, or structure
+   for derivative work without explicit written permission from Vexos.  
+
+──────────────────────────────────────────────────────────────
+SECTION 4 — OWNERSHIP
+──────────────────────────────────────────────────────────────
+All rights, assets, and intellectual property related to this Software remain
+the sole property of Vexos. No ownership or modification rights are transferred
+through this license.
+
+──────────────────────────────────────────────────────────────
+SECTION 5 — WARRANTY DISCLAIMER
+──────────────────────────────────────────────────────────────
+THE SOFTWARE IS PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS
+BE LIABLE FOR ANY DAMAGES ARISING FROM USE OR INABILITY TO USE THE SOFTWARE.
