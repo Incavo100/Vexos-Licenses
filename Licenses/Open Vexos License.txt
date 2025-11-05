@@ -1,6 +1,9 @@
+VEXOS LICENSE SYSTEM  
+License ID: OVL-v1.1
+Maintained by: Vexos  
+Official Release Year: 2025  
 OPEN VEXOS LICENSE (OVL) v1.0
 Copyright (c) 2025 Vexos
-https://github.com/VexosTeam/Vexos-Licenses
 
 ──────────────────────────────────────────────────────────────
 SECTION 1 — PURPOSE
